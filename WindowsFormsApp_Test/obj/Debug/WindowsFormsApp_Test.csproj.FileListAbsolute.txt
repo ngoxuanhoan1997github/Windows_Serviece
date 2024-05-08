@@ -1,0 +1,10 @@
+C:\Users\hoan.nx\Desktop\GitHub\WindowsService_Test\WindowsFormsApp_Test\bin\Debug\WindowsFormsApp_Test.exe.config
+C:\Users\hoan.nx\Desktop\GitHub\WindowsService_Test\WindowsFormsApp_Test\bin\Debug\WindowsFormsApp_Test.exe
+C:\Users\hoan.nx\Desktop\GitHub\WindowsService_Test\WindowsFormsApp_Test\bin\Debug\WindowsFormsApp_Test.pdb
+C:\Users\hoan.nx\Desktop\GitHub\WindowsService_Test\WindowsFormsApp_Test\obj\Debug\WindowsFormsApp_Test.Form1.resources
+C:\Users\hoan.nx\Desktop\GitHub\WindowsService_Test\WindowsFormsApp_Test\obj\Debug\WindowsFormsApp_Test.Properties.Resources.resources
+C:\Users\hoan.nx\Desktop\GitHub\WindowsService_Test\WindowsFormsApp_Test\obj\Debug\WindowsFormsApp_Test.csproj.GenerateResource.cache
+C:\Users\hoan.nx\Desktop\GitHub\WindowsService_Test\WindowsFormsApp_Test\obj\Debug\WindowsFormsApp_Test.csproj.CoreCompileInputs.cache
+C:\Users\hoan.nx\Desktop\GitHub\WindowsService_Test\WindowsFormsApp_Test\obj\Debug\WindowsFormsApp_Test.exe
+C:\Users\hoan.nx\Desktop\GitHub\WindowsService_Test\WindowsFormsApp_Test\obj\Debug\WindowsFormsApp_Test.pdb
+C:\Users\hoan.nx\Desktop\GitHub\WindowsService_Test\WindowsFormsApp_Test\obj\Debug\WindowsFormsApp_Test.csproj.AssemblyReference.cache
