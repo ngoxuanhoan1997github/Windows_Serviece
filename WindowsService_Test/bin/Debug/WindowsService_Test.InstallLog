@@ -32,3 +32,11 @@ Affected parameters are:
    logtoconsole = 
    logfile = C:\Users\hoan.nx\Desktop\GitHub\WindowsService_Test\WindowsService_Test\bin\Debug\WindowsService_Test.InstallLog
    assemblypath = C:\Users\hoan.nx\Desktop\GitHub\WindowsService_Test\WindowsService_Test\bin\Debug\WindowsService_Test.exe
+Uninstalling assembly 'C:\Users\hoan.nx\Desktop\GitHub\WindowsService_Test\WindowsService_Test\bin\Debug\WindowsService_Test.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hoan.nx\Desktop\GitHub\WindowsService_Test\WindowsService_Test\bin\Debug\WindowsService_Test.InstallLog
+   assemblypath = C:\Users\hoan.nx\Desktop\GitHub\WindowsService_Test\WindowsService_Test\bin\Debug\WindowsService_Test.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.

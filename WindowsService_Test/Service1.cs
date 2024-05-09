@@ -39,7 +39,7 @@ namespace WindowsService_Test
         public static void OnElapsedTime(object source, ElapsedEventArgs e)
         {
             WindowsFormsApp_Test.Form1 test = new WindowsFormsApp_Test.Form1();
-            test.Form1_Load(sender, e);
+            test.btntest_Click(sender,e);
         }
         public void WriteToFile(string Message)
         {

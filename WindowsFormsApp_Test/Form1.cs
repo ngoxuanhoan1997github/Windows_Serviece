@@ -14,7 +14,7 @@ namespace WindowsFormsApp_Test
 {
     public partial class Form1 : Form
     {
-        System.Timers.Timer timer = new System.Timers.Timer();
+        //System.Timers.Timer timer = new System.Timers.Timer();
         public Form1()
         {
             InitializeComponent();
@@ -22,31 +22,36 @@ namespace WindowsFormsApp_Test
 
         public void Form1_Load(object sender, EventArgs e)
         {
-            WriteToFile1("Ghi log lần 1");
+            //WriteToFile1("Ghi log lần 1");
         }
-        public void WriteToFile1(string Message)
+
+        public void btntest_Click(object sender, EventArgs e)
         {
-            string path = AppDomain.CurrentDomain.BaseDirectory + "\\Logs";
-            if (!Directory.Exists(path))
-            {
-                Directory.CreateDirectory(path);
-            }
-            string filepath = AppDomain.CurrentDomain.BaseDirectory + "\\Logs\\ServiceLog_" + DateTime.Now.Date.ToShortDateString().Replace('/', '_') + ".txt";
-            if (!File.Exists(filepath))
-            {
-                // Create a file to write to.   
-                using (StreamWriter sw = File.CreateText(filepath))
-                {
-                    sw.WriteLine(Message);
-                }
-            }
-            else
-            {
-                using (StreamWriter sw = File.AppendText(filepath))
-                {
-                    sw.WriteLine(Message);
-                }
-            }
+
         }
+        //public void WriteToFile1(string Message)
+        //{
+        //    string path = AppDomain.CurrentDomain.BaseDirectory + "\\Logs";
+        //    if (!Directory.Exists(path))
+        //    {
+        //        Directory.CreateDirectory(path);
+        //    }
+        //    string filepath = AppDomain.CurrentDomain.BaseDirectory + "\\Logs\\ServiceLog_" + DateTime.Now.Date.ToShortDateString().Replace('/', '_') + ".txt";
+        //    if (!File.Exists(filepath))
+        //    {
+        //        // Create a file to write to.   
+        //        using (StreamWriter sw = File.CreateText(filepath))
+        //        {
+        //            sw.WriteLine(Message);
+        //        }
+        //    }
+        //    else
+        //    {
+        //        using (StreamWriter sw = File.AppendText(filepath))
+        //        {
+        //            sw.WriteLine(Message);
+        //        }
+        //    }
+        //}
     }
 }
