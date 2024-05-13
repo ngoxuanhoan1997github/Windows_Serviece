@@ -6,3 +6,5 @@ C:\Users\hoan.nx\Desktop\GitHub\WindowsService_Test\WindowsFormsApp_Test\obj\Deb
 C:\Users\hoan.nx\Desktop\GitHub\WindowsService_Test\WindowsFormsApp_Test\obj\Debug\WindowsFormsApp_Test.csproj.GenerateResource.cache
 C:\Users\hoan.nx\Desktop\GitHub\WindowsService_Test\WindowsFormsApp_Test\obj\Debug\WindowsFormsApp_Test.exe
 C:\Users\hoan.nx\Desktop\GitHub\WindowsService_Test\WindowsFormsApp_Test\obj\Debug\WindowsFormsApp_Test.pdb
+C:\Users\hoan.nx\Desktop\GitHub\WindowsService_Test\WindowsFormsApp_Test\obj\Debug\WindowsFormsApp_Test.csproj.AssemblyReference.cache
+C:\Users\hoan.nx\Desktop\GitHub\WindowsService_Test\WindowsFormsApp_Test\obj\Debug\WindowsFormsApp_Test.csproj.CoreCompileInputs.cache

@@ -7,4 +7,7 @@ C:\Users\hoan.nx\Desktop\GitHub\WindowsService_Test\WindowsService_Test\obj\Debu
 C:\Users\hoan.nx\Desktop\GitHub\WindowsService_Test\WindowsService_Test\obj\Debug\WindowsService_Test.pdb
 C:\Users\hoan.nx\Desktop\GitHub\WindowsService_Test\WindowsService_Test\bin\Debug\WindowsFormsApp_Test.exe
 C:\Users\hoan.nx\Desktop\GitHub\WindowsService_Test\WindowsService_Test\bin\Debug\WindowsFormsApp_Test.pdb
-C:\Users\hoan.nx\Desktop\GitHub\WindowsService_Test\WindowsService_Test\obj\Debug\WindowsService_Test.csprojResolveAssemblyReference.cache
+C:\Users\hoan.nx\Desktop\GitHub\WindowsService_Test\WindowsService_Test\bin\Debug\WindowsFormsApp_Test.exe.config
+C:\Users\hoan.nx\Desktop\GitHub\WindowsService_Test\WindowsService_Test\obj\Debug\WindowsService_Test.csproj.AssemblyReference.cache
+C:\Users\hoan.nx\Desktop\GitHub\WindowsService_Test\WindowsService_Test\obj\Debug\WindowsService_Test.csproj.CoreCompileInputs.cache
+C:\Users\hoan.nx\Desktop\GitHub\WindowsService_Test\WindowsService_Test\obj\Debug\WindowsService_Test.csproj.CopyComplete

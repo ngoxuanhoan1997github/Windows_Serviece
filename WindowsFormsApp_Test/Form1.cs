@@ -30,22 +30,6 @@ namespace WindowsFormsApp_Test
 
         public void btntest_Click(object sender, EventArgs e)
         {
-            ////////////////////////////////////
-            using (HttpClient client = new HttpClient())
-            {
-                try
-                {
-                    var response =  client.GetAsync("https://www.google.com/");
-                }
-                catch (HttpRequestException ex)
-                {
-                }
-                catch (Exception ex)
-                {
-                }
-            }
-            //////////////////////////////////
-
             string phut = dateTimePicker1.Value.Minute.ToString();
             string abc = dateTimePicker1.Value.ToString();
             string xyz = dateTimePicker2.Value.DayOfWeek.ToString();
