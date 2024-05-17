@@ -1,0 +1,14 @@
+﻿<Window x:Class="WpfApp_Test.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp_Test"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="800">
+    <Grid>
+        <Button x:Name="btnclick" Content="Click" HorizontalAlignment="Stretch" Margin="230,38,475,398" VerticalAlignment="Stretch" Cursor="Hand" Click="btnclick_Click"/>
+        <DataGrid x:Name="gridClick" HorizontalAlignment="Stretch" Height="160" Margin="10,299,10,0" VerticalAlignment="Top" Width="772"/>
+
+    </Grid>
+</Window>
